@@ -1,13 +1,13 @@
-# Interaction Patterns
+# 🟢 Interaction Patterns
 
-* **Transactional Interactions:**
+* <mark style="color:purple;background-color:purple;">**Transactional Interactions:**</mark>
   * users to trigger and manager business process
-  * review or approve using natural language
-* **Navigational interactions:**
-  * For users who prefer navigating SAP screens directly, joule provides shortcuts to the right application - for users less familiar with SAP
-* **Information interaction:**
+  * <mark style="color:purple;background-color:purple;">**review or approve using natural language**</mark>
+* <mark style="color:purple;background-color:purple;">**Navigational interactions:**</mark>
+  * For users who prefer navigating SAP screens directly, <mark style="color:purple;background-color:purple;">**joule provides shortcuts to the right application**</mark> - for users less familiar with SAP
+* <mark style="color:purple;background-color:purple;">**Information interaction:**</mark>&#x20;
   * Knowledge queries based on
-  * help documentation
-  * Customer uploaded content such as policies through a feature document grounding
-* **Analytical interactions:**
-  * For analytical queries
+  * <mark style="color:purple;background-color:purple;">**help documentation**</mark>
+  * <mark style="color:purple;background-color:purple;">**Customer uploaded content such as policies**</mark> through a feature document grounding
+* <mark style="color:purple;background-color:purple;">**Analytical interactions:**</mark>
+  * <mark style="color:purple;background-color:purple;">**For analytical queries**</mark>

@@ -1,4 +1,4 @@
-# What makes SAP Joule Unique
+# ✈️ What makes SAP Joule Unique
 
 * Context aware responses tailored to the user, transactions and business data
 * Cross application reasoning, maintaining user context across SAP products - whether on desktop, mobile or SAP start
