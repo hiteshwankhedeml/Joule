@@ -1,4 +1,4 @@
-# Tutorial: Use Joule Studio to Create an Agent
+# 🟢 Tutorial: Use Joule Studio to Create an Agent
 
 <mark style="color:purple;background-color:purple;">**Private environments provide safe, isolated spaces for experimenting with Joule agents. They allow you to build, test, and refine your agents and skills without affecting any shared or productive environments**</mark>
 

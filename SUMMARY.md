@@ -37,4 +37,4 @@
 * [🟢 Tutorial: Create a Filter in an Action Project](tutorial-create-a-filter-in-an-action-project.md)
 * [🟢 Tutorial: Consume an Automated Process in a Joule Skill](tutorial-consume-an-automated-process-in-a-joule-skill.md)
 * [🟢 Tutorial: Develop a Full-Stack CAP Application with Joule](tutorial-develop-a-full-stack-cap-application-with-joule.md)
-* [Tutorial: Use Joule Studio to Create an Agent](tutorial-use-joule-studio-to-create-an-agent.md)
+* [🟢 Tutorial: Use Joule Studio to Create an Agent](tutorial-use-joule-studio-to-create-an-agent.md)
