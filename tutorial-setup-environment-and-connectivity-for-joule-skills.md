@@ -1,4 +1,4 @@
-# Tutorial: Setup Environment and Connectivity for Joule Skills
+# 🟢 Tutorial: Setup Environment and Connectivity for Joule Skills
 
 * Access to an SAP BTP tenant configured for Joule and Joule Studio is needed
 
@@ -6,7 +6,8 @@
 
 <mark style="color:purple;background-color:purple;">**Step 1: Create an Environment for Testing Joule Skills**</mark>
 
-* SAP Build Lobby ⇒ Control Tower ⇒ Environment ⇒ Create ⇒ Give Name and Description
+* <mark style="color:purple;background-color:purple;">**Provides isolation between development, testing, and production setups**</mark>
+* <mark style="color:purple;background-color:purple;">**SAP Build Lobby ⇒ Control Tower ⇒ Environment ⇒ Create ⇒ Give Name and Description**</mark>
 * Once created then select the environment and select the Joule Tab
 *
 
@@ -35,5 +36,3 @@
 * Build Lobby ⇒ Control Tower ⇒ Destinations ⇒ Add
 * Select the destination ⇒ Next ⇒ Select the environment ⇒ Add destination
 * Ensure you also select Public environment otherwise you won't be able to see it for testing
-
-Step 4:&#x20;

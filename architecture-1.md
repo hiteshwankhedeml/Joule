@@ -1,4 +1,4 @@
-# Architecture
+# ✈️ Architecture
 
 * AI Ecosystem ⇒ Partnerships like databricks etc.
 * AI Foundation ⇒ BTP as a service

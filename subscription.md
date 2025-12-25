@@ -1,10 +1,10 @@
-# Subscription
+# 🟢 Subscription
 
-1. Base subscription
-2. Key cost driver:
+1. <mark style="color:purple;background-color:purple;">**Base subscription**</mark>
+2. <mark style="color:purple;background-color:purple;">**Key cost driver:**</mark>
 
-* user license
-* query volume - each requests comes from BTP credits
+* <mark style="color:purple;background-color:purple;">**user license**</mark>
+* <mark style="color:purple;background-color:purple;">**query volume**</mark> - each requests comes from BTP credits
 * integration footprint
 * Data footprint - Cost increase based on API calls
 

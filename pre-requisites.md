@@ -1,4 +1,4 @@
-# Pre Requisites
+# 🟢 Pre Requisites
 
 * BTP Cockpit ⇒ Services ⇒ SAP Business Process Automation
 * Ensure that it has service plan as standard and application plan as build-default
@@ -20,4 +20,4 @@
 
 
 
-* In Booster ⇒ Set up Joule
+* <mark style="color:purple;background-color:purple;">**In Booster ⇒ Set up Joule**</mark>

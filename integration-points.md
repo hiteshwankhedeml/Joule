@@ -1,4 +1,4 @@
-# Integration Points
+# 🟢 Integration Points
 
 1. S4 HANA:
 
@@ -23,5 +23,5 @@
 
 * SAP Ariba Portal ⇒ Register an application ⇒ Request API Access ⇒ Obtain API Key + Oath client ID
 * Get Auth2 Access token ⇒ API gateway
-* In BTP we will create a destination
-* http-OAUTH2 connection
+* <mark style="color:purple;background-color:purple;">**In BTP we will create a destination**</mark>
+* <mark style="color:purple;background-color:purple;">**http-OAUTH2 connection**</mark>

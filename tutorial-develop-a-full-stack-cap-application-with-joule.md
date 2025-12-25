@@ -1,4 +1,4 @@
-# Tutorial: Develop a Full-Stack CAP Application with Joule
+# 🟢 Tutorial: Develop a Full-Stack CAP Application with Joule
 
 * Joule is a Generative AI assistant that will create code for you
 

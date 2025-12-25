@@ -1,4 +1,4 @@
-# Tutorial: Use Joule Studio to Create and Deploy a Joule Skill
+# 🟢 Tutorial: Use Joule Studio to Create and Deploy a Joule Skill
 
 <mark style="color:purple;background-color:purple;">**Step 1: Create a Joule Skill**</mark>
 

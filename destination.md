@@ -1,4 +1,4 @@
-# Destination
+# 🟢 Destination
 
-* BTP Cockpit ⇒ Connectivity ⇒ Destinations
-* Destination needs to be created
+* <mark style="color:purple;background-color:purple;">**BTP Cockpit ⇒ Connectivity ⇒ Destinations**</mark>
+* <mark style="color:purple;background-color:purple;">**Destination needs to be created**</mark>

@@ -1,4 +1,4 @@
-# Tutorial: Create a Filter in an Action Project
+# 🟢 Tutorial: Create a Filter in an Action Project
 
 <mark style="color:purple;background-color:purple;">**Step 1: Copy action project for BusinessPartner service**</mark>
 

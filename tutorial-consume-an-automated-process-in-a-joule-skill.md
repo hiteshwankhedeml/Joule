@@ -1,4 +1,4 @@
-# Tutorial: Consume an Automated Process in a Joule Skill
+# 🟢 Tutorial: Consume an Automated Process in a Joule Skill
 
 <mark style="color:purple;background-color:purple;">**Step 1: Create a Project for the Automated Process**</mark>
 
