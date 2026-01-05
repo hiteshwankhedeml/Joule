@@ -1,5 +1,7 @@
 # 🟢 What is SAP Joule
 
+<mark style="color:purple;background-color:purple;">**RRR ⇒ Relevant, Reliable, Responsible**</mark>
+
 * It is not on-prem
 * <mark style="color:purple;background-color:purple;">**Relevant content for our user:**</mark>
   * <mark style="color:purple;background-color:purple;">**Understands users context including roles and permissions and also which SAP product they use**</mark>

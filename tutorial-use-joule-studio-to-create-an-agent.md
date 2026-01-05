@@ -42,9 +42,9 @@
 
 <mark style="color:purple;background-color:purple;">**Step 5: Configure the Agent Behavior**</mark>
 
-* Add Expertise, Instructions and Additional Context
-* Model Settings ⇒ Select Model here
-* Tools ⇒ Add Joule Skills here
+* <mark style="color:red;background-color:purple;">**Add Expertise, Instructions and Additional Context**</mark>
+* <mark style="color:red;background-color:purple;">**Model Settings ⇒ Select Model here**</mark>
+* <mark style="color:red;background-color:purple;">**Tools ⇒ Add Joule Skills here**</mark>
 
 <mark style="color:purple;background-color:purple;">**Step 6: Test in Private Environment**</mark>
 

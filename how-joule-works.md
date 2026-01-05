@@ -1,4 +1,8 @@
-# How Joule Works
+---
+hidden: true
+---
+
+# ✈️ How Joule Works
 
 1. User enters prompt
 2. Request will be processed and orchestrated

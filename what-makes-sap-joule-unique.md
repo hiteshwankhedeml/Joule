@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ What makes SAP Joule Unique
 
 * Context aware responses tailored to the user, transactions and business data

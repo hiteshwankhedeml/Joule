@@ -8,7 +8,7 @@
 <mark style="color:purple;background-color:purple;">**Step 2: Verify Subscription**</mark>
 
 * Subaccount
-* Click SAP Build Code ⇒ Build Lobby Opens
+* Click SAP Build Code ⇒ <mark style="color:purple;background-color:purple;">**Build Lobby Opens**</mark>
 *
 
     <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

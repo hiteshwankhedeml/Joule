@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Architecture
 
 * AI Ecosystem ⇒ Partnerships like databricks etc.
