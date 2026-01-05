@@ -14,5 +14,5 @@
 * <mark style="color:purple;background-color:purple;">**Select test ⇒ Enter the input and check if data is fetched correctly**</mark>
 *   <mark style="color:purple;background-color:purple;">**Save ⇒ Release ⇒ Publish**</mark>
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 *
