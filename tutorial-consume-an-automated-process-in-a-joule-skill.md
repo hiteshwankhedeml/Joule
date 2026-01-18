@@ -44,7 +44,7 @@
 <mark style="color:purple;background-color:purple;">**Step 9: Test Joule Skills**</mark>
 
 * Check Joule in Environment
-* You can check if the process has been called by going to Monitoring > Process and Workflow Instances.
+* <mark style="color:purple;background-color:purple;">**You can check if the process has been called by going to Monitoring > Process and Workflow Instances.**</mark>
 *
 
     <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

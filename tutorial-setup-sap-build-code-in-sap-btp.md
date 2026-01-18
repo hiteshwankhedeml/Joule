@@ -1,6 +1,6 @@
 # 🟢 Tutorial: Setup SAP Build Code in SAP BTP
 
-<mark style="color:purple;background-color:purple;">**Step 1: Run the SAP Build Code Booster**</mark>
+<mark style="color:purple;background-color:purple;">**Step 1: Run the SAP Build Code Booster for Build Code**</mark>
 
 * BTP Cockpit
 * Booster ⇒ Get started with SAP Build Code

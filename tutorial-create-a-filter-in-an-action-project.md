@@ -5,7 +5,7 @@
 * Build Lobby ⇒ Connectors ⇒ Actions
 * Select the Project ⇒ Save as New Project ⇒ Enter name and description
 * In the Input fields ⇒ Select Add New Fields ⇒ Key = FirstName
-* &#x20;In the Filters enter FirstName
+* &#x20;<mark style="color:purple;background-color:purple;">**In the Filters enter FirstName**</mark>
 * Test
 * Release ⇒ Publish
 *

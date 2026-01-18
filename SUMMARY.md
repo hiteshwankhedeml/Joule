@@ -35,6 +35,7 @@
 * [🟡 Joule Agents - Components](joule-agents-components.md)
 * [🟡 Joule Skills](joule-skills.md)
 * [---------- Tutorials ----------](tutorials.md)
+* [🟢 Joule Cheat Sheet](joule-cheat-sheet.md)
 * [🟢 Tutorial: Setup SAP Build Code in SAP BTP](tutorial-setup-sap-build-code-in-sap-btp.md)
 * [🟢 Tutorial: Setup Environment and Connectivity for Joule Skills](tutorial-setup-environment-and-connectivity-for-joule-skills.md)
 * [🟢 Tutorial: Create Action Projects](tutorial-create-action-projects.md)
