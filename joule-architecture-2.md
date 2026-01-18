@@ -1,4 +1,8 @@
-# Joule Architecture
+---
+hidden: true
+---
+
+# 🟡 Joule Architecture
 
 * Joule is a service running on BTP
 * Joule UI will be embedded in SAP solutions

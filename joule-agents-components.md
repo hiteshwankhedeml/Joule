@@ -1,4 +1,8 @@
-# Joule Agents - Components
+---
+hidden: true
+---
+
+# 🟡 Joule Agents - Components
 
 **Goals & Instructions Module:** Agents purpose and using behaviour using natural language
 

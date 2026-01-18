@@ -1,4 +1,4 @@
-# Set Up
+# 🔴 Set Up
 
 * BTP Global Count
 * Create ⇒ Subaccount
@@ -9,7 +9,7 @@
     <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * Enable Cloud Foundry
 * Add Entitlement
-* Configure Trust
-  * Security ⇒ Settings ⇒ Trusted Domains ⇒ Here we can add trusted domains of our system like successfactors etc
-  * Security ⇒ Trust Configuration&#x20;
-* Boosters ⇒ Setting up Joule
+* <mark style="color:purple;background-color:purple;">**Configure Trust**</mark>
+  * <mark style="color:purple;background-color:purple;">**Security ⇒ Settings ⇒ Trusted Domains ⇒ Here we can add trusted domains of our system like successfactors etc**</mark>
+  * <mark style="color:purple;background-color:purple;">**Security ⇒ Trust Configuration**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**Boosters ⇒ Setting up Joule**</mark>

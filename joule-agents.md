@@ -1,4 +1,8 @@
-# Joule Agents
+---
+hidden: true
+---
+
+# 🟡 Joule Agents
 
 * To tackle complex business challenges.&#x20;
 * Plan, reason, and navigate unit goal is met.&#x20;

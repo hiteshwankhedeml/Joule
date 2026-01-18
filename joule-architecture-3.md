@@ -1,4 +1,8 @@
-# Joule Architecture
+---
+hidden: true
+---
+
+# 🟡 Joule Architecture
 
 * &#x20;
 *

@@ -1,4 +1,8 @@
-# Joule Architecture
+---
+hidden: true
+---
+
+# 🟡 Joule Architecture
 
 * Developer will be using Build Apps Tools
 * Whatever is designed in Design time environment will be deployed in Runtime environment
