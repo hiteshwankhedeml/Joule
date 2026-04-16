@@ -1,4 +1,8 @@
-# 🟢 What is SAP Joule
+---
+hidden: true
+---
+
+# ✈️ What is SAP Joule
 
 <mark style="color:purple;background-color:purple;">**RRR ⇒ Relevant, Reliable, Responsible**</mark>
 

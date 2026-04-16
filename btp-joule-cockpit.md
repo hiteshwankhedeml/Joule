@@ -1,4 +1,8 @@
-# 🟢 BTP Joule Cockpit
+---
+hidden: true
+---
+
+# ✈️ BTP Joule Cockpit
 
 * In Free tier we can try this
 * <mark style="color:purple;background-color:purple;">**Pricing will be based on per message or interaction**</mark>

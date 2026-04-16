@@ -1,4 +1,8 @@
-# 🟢 Transactional Interface
+---
+hidden: true
+---
+
+# ✈️ Transactional Interface
 
 *
 
