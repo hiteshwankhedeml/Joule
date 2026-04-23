@@ -6,7 +6,7 @@
 * Used for Production ⇒ The same tenant can be used for testing as well as production
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 * Enable Cloud Foundry
 * Add Entitlement
 * <mark style="color:$danger;background-color:purple;">**Configure Trust**</mark>

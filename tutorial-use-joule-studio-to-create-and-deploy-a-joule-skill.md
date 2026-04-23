@@ -8,10 +8,10 @@
 * <mark style="color:$danger;background-color:purple;">**The description is important because Joule will use it to identify the correct skill to select during a conversation.**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;background-color:purple;">**Step 2: Define the Input and Output Parameters**</mark>
 
