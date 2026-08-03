@@ -52,3 +52,8 @@
 * [Well defined tool](well-defined-tool.md)
 * [To be explored - Use Case: Screening](to-be-explored-use-case-screening.md)
 * [End of ----- Introducing Joule Studio -----](end-of-introducing-joule-studio.md)
+* [Joule Multi Language Support](joule-multi-language-support.md)
+* [Analytical Insights with SAP Analytics Cloud](analytical-insights-with-sap-analytics-cloud.md)
+* [Constraints for Analytical Insights](constraints-for-analytical-insights.md)
+* [Joule Preview Landscape](joule-preview-landscape.md)
+* [Joule in SAP SuccessFactors](joule-in-sap-successfactors.md)

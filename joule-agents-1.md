@@ -14,4 +14,4 @@
 * **Integration Layer:** Facilitates seamless communication with SAP and non-SAP systems
 *
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
